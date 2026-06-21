@@ -20,17 +20,15 @@ Hello World! I’m Isabel — an analyst and programmer who values clarity, repr
 ---
 
 ## 🛠️ Languages & Technologies
-- **Python**
-- **R**
-- **HTML, CSS, JavaScript**
-- **C & C++**
-- **SQL**
-- **Bash / Command Line**
-- **Jupyter**
-- **Git / GitHub**
-- **Visualization Tools**
-- **Markdown**
-- **Modeling & Analysis**
+
+**Programming Languages**  
+Python • R • C • C++ • SQL • HTML • CSS • JavaScript
+
+**Tools & Environments**  
+Jupyter • Git/GitHub • Bash / Command Line
+
+**Skills & Domains**  
+Data Visualization • Modeling & Analysis • Markdown
 
 ---
 
