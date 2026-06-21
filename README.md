@@ -41,4 +41,4 @@ Hello World! I’m Isabel a analyst and programmer who values clarity, reproduci
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-%236b7a4c?style=flat-square)](mailto:isabel.majdoch@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%23d4af37?style=flat-square)](www.linkedin.com/in/isabelmajdoch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%23d4af37?style=flat-square)](https://www.linkedin.com/in/isabelmajdoch)
