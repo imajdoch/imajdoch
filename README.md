@@ -8,33 +8,37 @@
 ---
 
 Welcome to my GitHub profile.  
-Hello World! I’m Isabel an analyst and programmer who values clarity, reproducibility, and thoughtful design.  
+Hello World! I’m Isabel — an analyst and programmer who values clarity, reproducibility, and thoughtful design.
 
 ---
 
 ## 📖 About Me
-> - 🌱 B.S. Computer Science - Cyber Security and Information Assurance
-> - 📊 Pursuing a M.S. Data Science
-> - 💻 Associate IT Application Analyst at Duke Energy
+> - 🌱 B.S. Computer Science — Cyber Security & Information Assurance  
+> - 📊 Pursuing an M.S. in Data Science  
+> - 💻 Associate IT Application Analyst at Duke Energy  
 
 ---
 
-## 🛠️ Languages & Tech
+## 🛠️ Languages & Technologies
 - **Python**
 - **R**
-- **HTML, CSS, & JavaScript**
+- **HTML, CSS, JavaScript**
 - **C & C++**
 - **SQL**
-- **Bash/Command Line**
+- **Bash / Command Line**
 - **Jupyter**
-- **Git/GitHub** 
-- **Visualization**
+- **Git / GitHub**
+- **Visualization Tools**
 - **Markdown**
-- **Modeling & Analysis** 
+- **Modeling & Analysis**
 
 ---
 
-## 🌸 Thanks for visiting my profile.  
+## 🌱 Personal Interests
+- Reading and Writing 📚
+- Science Fiction and Fantasy Media 👽
+- Soccer ⚽
+- Dogs, Cats, and Lizards 🦎  
 
 ---
 
@@ -42,3 +46,7 @@ Hello World! I’m Isabel an analyst and programmer who values clarity, reproduc
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-%236b7a4c?style=flat-square)](mailto:isabel.majdoch@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%23d4af37?style=flat-square)](https://www.linkedin.com/in/isabelmajdoch)
+
+---
+
+## 🌸 Thanks for visiting my profile.
